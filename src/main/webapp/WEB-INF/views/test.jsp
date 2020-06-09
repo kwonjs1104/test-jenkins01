@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	연습중
+	연습중<br>
+	내용 수정
 </body>
 </html>
